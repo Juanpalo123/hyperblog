@@ -19,6 +19,12 @@ body{
 
 
 }
+#cabecera #logo
+{
+    width: 200px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline
 {
 
